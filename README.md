@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visahaarala
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & git
 - 🚜 Next I'll study Typescript & CSS
 
 <!---
