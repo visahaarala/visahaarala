@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @visahaarala
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning React & git
-- 🚜 Next I'll study Typescript & CSS
+- 💞️ I’m interested in learning to code
+- 👀 I’ve done some learning in React, Next.js, TypeScript, SCSS & Git
+- 🌱 Now I'm studying Tailwind CSS
+- 🚜 In the near future I think I'll take a look at D3 & Rust
 
 <!---
 - 💞️ I’m looking to collaborate on ...
