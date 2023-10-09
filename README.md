@@ -4,8 +4,6 @@
 - 🌱 Now I'm studying Tailwind CSS
 - 🚜 In the near future I think I'll take a look at D3 & Rust
 
-I have a couple of project ideas for serving our society. I'll get to those hopefully soon.
-
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
