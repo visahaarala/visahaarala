@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @visahaarala
 - 💞️ I’m interested in learning to code
-- 👀 I’ve done some learning in MERN stack, TypeScript, SCSS, Pug & Git
+- 👀 I’ve done some learning in MERN stack, TypeScript, SCSS & Pug templates
 - 🌱 Now I'm creating some personal projects
 - 🚜 In the near future I think I'll learn D3 & Rust
